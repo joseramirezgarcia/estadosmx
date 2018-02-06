@@ -1,0 +1,99 @@
+{
+  "estados" : [ {
+    "capital" : "Aguascalientes",
+    "estado" : "Aguascalientes"
+  }, {
+    "capital" : "Mexicali",
+    "estado" : "Baja California"
+  }, {
+    "capital" : "La Paz",
+    "estado" : "Baja California Sur"
+  }, {
+    "capital" : "Campeche",
+    "estado" : "Campeche"
+  }, {
+    "capital" : "Saltillo",
+    "estado" : "Coahuila"
+  }, {
+    "capital" : "Colima",
+    "estado" : "Colima"
+  }, {
+    "capital" : "Tuxtla Gutiérrez",
+    "estado" : "Chiapas"
+  }, {
+    "capital" : "Chihuahua",
+    "estado" : "Chihuahua"
+  }, {
+    "capital" : "",
+    "estado" : "Ciudad de México"
+  }, {
+    "capital" : "Durango",
+    "estado" : "Durango"
+  }, {
+    "capital" : "Guanajuato",
+    "estado" : "Guanajuato"
+  }, {
+    "capital" : "Chilpancingo",
+    "estado" : "Guerrero"
+  }, {
+    "capital" : "Pachuca",
+    "estado" : "Hidalgo"
+  }, {
+    "capital" : "Guadalajara",
+    "estado" : "Jalisco"
+  }, {
+    "capital" : "Toluca",
+    "estado" : "Estado de México"
+  }, {
+    "capital" : "Morelia",
+    "estado" : "Michoacán"
+  }, {
+    "capital" : "Cuernavaca",
+    "estado" : "Morelos"
+  }, {
+    "capital" : "Tepic",
+    "estado" : "Nayarit"
+  }, {
+    "capital" : "Monterrey",
+    "estado" : "Nuevo León"
+  }, {
+    "capital" : "Oaxaca",
+    "estado" : "Oaxaca"
+  }, {
+    "capital" : "Puebla",
+    "estado" : "Puebla"
+  }, {
+    "capital" : "Querétaro",
+    "estado" : "Querétaro"
+  }, {
+    "capital" : "Chetumal",
+    "estado" : "Quintana Roo"
+  }, {
+    "capital" : "San Luis Potosí",
+    "estado" : "San Luis Potosí"
+  }, {
+    "capital" : "Culiacán",
+    "estado" : "Sinaloa"
+  }, {
+    "capital" : "Hermosillo",
+    "estado" : "Sonora"
+  }, {
+    "capital" : "Villahermosa",
+    "estado" : "Tabasco"
+  }, {
+    "capital" : "Ciudad Victoria",
+    "estado" : "Tamaulipas"
+  }, {
+    "capital" : "Tlaxcala",
+    "estado" : "Tlaxcala"
+  }, {
+    "capital" : "Xalapa",
+    "estado" : "Veracruz"
+  }, {
+    "capital" : "Mérida",
+    "estado" : "Yucatán"
+  }, {
+    "capital" : "Zacatecas",
+    "estado" : "Zacatecas"
+  } ]
+}

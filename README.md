@@ -1,4 +1,4 @@
-# estados
+# estados MX
 
 > Sistema de flashcards y juego para estudiar los estados y capitales de México, para niños de primaria.
 
